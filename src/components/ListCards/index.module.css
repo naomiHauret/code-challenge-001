@@ -1,0 +1,6 @@
+/*! /* purgecss start ignore */
+.buttonSelected {
+  @apply .text-white-100;
+  @apply .bg-blue-100;
+}
+/*! /* purgecss end ignore */
