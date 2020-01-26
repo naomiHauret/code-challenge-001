@@ -18,3 +18,10 @@ An experimentation at how to render the same UI with different ways (Hooks with 
 * Deploy (to a branch, not to production): `npm run branch:deploy`
 * Deploy (to production): `npm run prod:deploy`
 
+
+## Tech
+* workflow: webpack
+* deployement: Zeit Now
+* UI: React
+* Styles: Tailwind CSS, PostCSS, CSS Modules
+* Format: Prettier
