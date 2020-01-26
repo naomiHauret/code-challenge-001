@@ -1,5 +1,7 @@
 An experimentation at how to render the same UI with different ways (Hooks with and without Context API, reducer hook).
 
+[Get the challenge on this repository.](https://github.com/woltapp/summer2020)
+
 ## Pre-requisites
 * `node` version >= 11
 * `npm` version >= 6
